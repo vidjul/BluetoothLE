@@ -12,6 +12,10 @@ https://vngiotlab.github.io/vbluno/mydoc_ble.html
 https://tigerprints.clemson.edu/cgi/viewcontent.cgi?article=3543&context=all_theses
 https://repository.asu.edu/attachments/194075/content/Pammi_asu_0010N_17490.pdf
 
+## Pairing (Focus on this.)
+
+https://www.digikey.com/eewiki/display/Wireless/A+Basic+Introduction+to+BLE+Security#ABasicIntroductiontoBLESecurity-PairingMethodsforLELegacyConnections(4.0,4.1and4.2devices):
+
 
 ## Unclassified (ATM)
 
