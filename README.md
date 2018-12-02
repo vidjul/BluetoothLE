@@ -20,6 +20,8 @@ How the pairing is done ?
 https://www.serialio.com/support/bluetooth-low-energy-ble-security
 https://blog.bluetooth.com/bluetooth-pairing-passkey-entry
 
+https://duo.com/decipher/understanding-bluetooth-security
+
 ### Bluetooth 4.2 Pairing flaws (very recent!)
 
 https://blog.trailofbits.com/2018/08/01/bluetooth-invalid-curve-points/
