@@ -14,7 +14,10 @@ https://repository.asu.edu/attachments/194075/content/Pammi_asu_0010N_17490.pdf
 
 ## Pairing (Focus on this.)
 
-https://www.digikey.com/eewiki/display/Wireless/A+Basic+Introduction+to+BLE+Security#ABasicIntroductiontoBLESecurity-PairingMethodsforLELegacyConnections(4.0,4.1and4.2devices):
+https://www.digikey.com/eewiki/display/Wireless/A+Basic+Introduction+to+BLE+Security#ABasicIntroductiontoBLESecurity-PairingMethodsforLELegacyConnections(4.0,4.1and4.2devices)
+
+How the pairing is done ?
+https://hashnode.com/post/how-does-bluetooth-low-energy-pairing-work-cjaw6h6g502oe6ywu0brbn8o9
 
 ### Bluetooth 4.2 Pairing flaws (very recent!)
 
