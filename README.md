@@ -22,6 +22,10 @@ https://blog.trailofbits.com/2018/08/01/bluetooth-invalid-curve-points/
 http://www.cs.technion.ac.il/~biham/BT/bt-fixed-coordinate-invalid-curve-attack.pdf
 https://hackernoon.com/bluetooth-hacking-cheating-in-elliptic-curve-billiards-c092fdf70aae
 
+## Countermeasures
+
+https://www.netguru.co/codestories/5-ways-to-create-a-safer-bluetooth-connection
+
 ## Unclassified (ATM)
 
 https://www.iaria.org/conferences2017/filesICIMP17/ICIMP2017_Hacking_BLE_Applications.pdf
