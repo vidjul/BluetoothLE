@@ -16,6 +16,11 @@ https://repository.asu.edu/attachments/194075/content/Pammi_asu_0010N_17490.pdf
 
 https://www.digikey.com/eewiki/display/Wireless/A+Basic+Introduction+to+BLE+Security#ABasicIntroductiontoBLESecurity-PairingMethodsforLELegacyConnections(4.0,4.1and4.2devices):
 
+### Bluetooth 4.2 Pairing flaws (very recent!)
+
+https://blog.trailofbits.com/2018/08/01/bluetooth-invalid-curve-points/
+http://www.cs.technion.ac.il/~biham/BT/bt-fixed-coordinate-invalid-curve-attack.pdf
+https://hackernoon.com/bluetooth-hacking-cheating-in-elliptic-curve-billiards-c092fdf70aae
 
 ## Unclassified (ATM)
 
