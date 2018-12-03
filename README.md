@@ -18,6 +18,7 @@ https://www.digikey.com/eewiki/display/Wireless/A+Basic+Introduction+to+BLE+Secu
 
 https://ro.uow.edu.au/cgi/viewcontent.cgi?referer=https://www.google.co.uk/&httpsredir=1&article=1706&context=eispapers1
 (Pairing process step by step)
+https://community.nxp.com/thread/332191
 
 How the pairing is done ?
 https://www.serialio.com/support/bluetooth-low-energy-ble-security
