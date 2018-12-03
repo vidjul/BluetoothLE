@@ -16,6 +16,9 @@ https://repository.asu.edu/attachments/194075/content/Pammi_asu_0010N_17490.pdf
 
 https://www.digikey.com/eewiki/display/Wireless/A+Basic+Introduction+to+BLE+Security#ABasicIntroductiontoBLESecurity-PairingMethodsforLELegacyConnections(4.0,4.1and4.2devices)
 
+https://ro.uow.edu.au/cgi/viewcontent.cgi?referer=https://www.google.co.uk/&httpsredir=1&article=1706&context=eispapers1
+(Pairing process step by step)
+
 How the pairing is done ?
 https://www.serialio.com/support/bluetooth-low-energy-ble-security
 https://blog.bluetooth.com/bluetooth-pairing-passkey-entry
@@ -35,3 +38,5 @@ https://www.netguru.co/codestories/5-ways-to-create-a-safer-bluetooth-connection
 ## Unclassified (ATM)
 
 https://www.iaria.org/conferences2017/filesICIMP17/ICIMP2017_Hacking_BLE_Applications.pdf
+
+https://www.researchgate.net/publication/323956636_BLUETOOTH_PAIRING_SECURITY_THREATS_AND_COUNTERMEASURES/download
