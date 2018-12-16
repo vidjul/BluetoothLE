@@ -43,3 +43,5 @@ https://www.iaria.org/conferences2017/filesICIMP17/ICIMP2017_Hacking_BLE_Applica
 https://www.researchgate.net/publication/323956636_BLUETOOTH_PAIRING_SECURITY_THREATS_AND_COUNTERMEASURES/download
 
 https://courses.csail.mit.edu/6.857/2018/project/Filizzola-Fraser-Samsonau-Bluetooth.pdf
+
+https://ieeexplore.ieee.org/document/8210548
